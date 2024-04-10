@@ -8,7 +8,7 @@ title Script Para Iniciar WinSCP Y Transferir Archivos
 :: "Archivo1*.txt"-
 :: "Archivo2*.txt"-
 :: "Archivo3*.txt"-
-::-------------------- - 
+::------------------- - 
 ::
 :: Fecha De Ultima Actualización 10/03/2024
 
